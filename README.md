@@ -1,6 +1,6 @@
 <h2>⚽ Football Records Management Application</h2>
 
-<p><strong>Technologies:</strong> Node.js, Express, MongoDB, React, Axios</p>
+<p><strong>Technologies:</strong> Node.js, Express, MongoDB, React, Axios.</p>
 
 <h3>📌 Project Overview</h3>
 <ul>
